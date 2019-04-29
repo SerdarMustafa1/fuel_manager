@@ -1,0 +1,234 @@
+[
+  {
+    "_id": "5cc6de79556618c9445270b9",
+    "price_per_litre": 1.55,
+    "driver_id": 5,
+    "fuelType": "Gas 95",
+    "volume": 15.8,
+    "date": "2019-01-09T06:51:04"
+  },
+  {
+    "_id": "5cc6de79b09b7f841be641fd",
+    "price_per_litre": 1.78,
+    "driver_id": 2,
+    "fuelType": "Gas 95",
+    "volume": 20.9,
+    "date": "2019-03-31T12:55:22"
+  },
+  {
+    "_id": "5cc6de79cceecf77195b8b0d",
+    "price_per_litre": 0.34,
+    "driver_id": 6,
+    "fuelType": "Gas 95",
+    "volume": 44.8,
+    "date": "2019-03-18T06:42:13"
+  },
+  {
+    "_id": "5cc6de79adff21e230ac7a6e",
+    "price_per_litre": 1.84,
+    "driver_id": 10,
+    "fuelType": "Diesel",
+    "volume": 30.4,
+    "date": "2019-04-14T10:31:19"
+  },
+  {
+    "_id": "5cc6de795befd5662edab970",
+    "price_per_litre": 1.7,
+    "driver_id": 10,
+    "fuelType": "Diesel",
+    "volume": 95.7,
+    "date": "2019-04-28T03:46:57"
+  },
+  {
+    "_id": "5cc6de79e2bb3353a9dcd632",
+    "price_per_litre": 0.84,
+    "driver_id": 4,
+    "fuelType": "Gas 95",
+    "volume": 54.5,
+    "date": "2019-02-05T09:27:58"
+  },
+  {
+    "_id": "5cc6de79783e837493cddcb7",
+    "price_per_litre": 1.95,
+    "driver_id": 2,
+    "fuelType": "Gas 98",
+    "volume": 44.8,
+    "date": "2019-03-07T03:05:48"
+  },
+  {
+    "_id": "5cc6de7977a947a4c47f8727",
+    "price_per_litre": 0.85,
+    "driver_id": 8,
+    "fuelType": "Diesel",
+    "volume": 16.6,
+    "date": "2019-03-30T10:25:10"
+  },
+  {
+    "_id": "5cc6de7969f8baf40d5d31e7",
+    "price_per_litre": 0.92,
+    "driver_id": 6,
+    "fuelType": "Gas 95",
+    "volume": 30.4,
+    "date": "2019-01-03T02:51:53"
+  },
+  {
+    "_id": "5cc6de7937b9f6ec6f1b1dae",
+    "price_per_litre": 1.91,
+    "driver_id": 3,
+    "fuelType": "Gas 98",
+    "volume": 59.7,
+    "date": "2019-01-31T02:23:34"
+  },
+  {
+    "_id": "5cc6de79622e047267e8c862",
+    "price_per_litre": 1.92,
+    "driver_id": 2,
+    "fuelType": "Diesel",
+    "volume": 44.8,
+    "date": "2019-03-09T04:25:15"
+  },
+  {
+    "_id": "5cc6de794154e70fca08c22e",
+    "price_per_litre": 0.53,
+    "driver_id": 10,
+    "fuelType": "Gas 95",
+    "volume": 58.9,
+    "date": "2019-01-26T01:22:10"
+  },
+  {
+    "_id": "5cc6de79f56266c09f67760f",
+    "price_per_litre": 0.81,
+    "driver_id": 9,
+    "fuelType": "Diesel",
+    "volume": 94.3,
+    "date": "2019-04-12T03:03:00"
+  },
+  {
+    "_id": "5cc6de79957db95c117c5bf5",
+    "price_per_litre": 0.37,
+    "driver_id": 8,
+    "fuelType": "Gas 98",
+    "volume": 68.4,
+    "date": "2019-01-26T06:57:21"
+  },
+  {
+    "_id": "5cc6de79686a5af6f7b0a6d8",
+    "price_per_litre": 0.93,
+    "driver_id": 1,
+    "fuelType": "Diesel",
+    "volume": 84.8,
+    "date": "2019-04-18T07:11:12"
+  },
+  {
+    "_id": "5cc6de792973abe846b4aef8",
+    "price_per_litre": 1.62,
+    "driver_id": 1,
+    "fuelType": "Diesel",
+    "volume": 5.5,
+    "date": "2019-04-25T03:45:54"
+  },
+  {
+    "_id": "5cc6de79b629534634c1658f",
+    "price_per_litre": 1.04,
+    "driver_id": 10,
+    "fuelType": "Gas 98",
+    "volume": 12.6,
+    "date": "2019-01-09T03:27:55"
+  },
+  {
+    "_id": "5cc6de796ad4287646038610",
+    "price_per_litre": 0.29,
+    "driver_id": 5,
+    "fuelType": "Gas 95",
+    "volume": 16.6,
+    "date": "2019-04-09T08:27:11"
+  },
+  {
+    "_id": "5cc6de79545fdb1f9df2c09a",
+    "price_per_litre": 0.23,
+    "driver_id": 9,
+    "fuelType": "Gas 95",
+    "volume": 96.7,
+    "date": "2019-04-20T10:02:02"
+  },
+  {
+    "_id": "5cc6de794786038b7e86ff0e",
+    "price_per_litre": 0.3,
+    "driver_id": 10,
+    "fuelType": "Gas 95",
+    "volume": 54.5,
+    "date": "2019-03-15T02:56:53"
+  },
+  {
+    "_id": "5cc6de797a7a749dd86162af",
+    "price_per_litre": 1.2,
+    "driver_id": 3,
+    "fuelType": "Diesel",
+    "volume": 94.3,
+    "date": "2019-02-05T01:57:53"
+  },
+  {
+    "_id": "5cc6de79dcdf08f9017d2fe9",
+    "price_per_litre": 0.26,
+    "driver_id": 7,
+    "fuelType": "Diesel",
+    "volume": 34.4,
+    "date": "2019-01-14T09:39:52"
+  },
+  {
+    "_id": "5cc6de7992111f4ace4e4b91",
+    "price_per_litre": 1.41,
+    "driver_id": 9,
+    "fuelType": "Diesel",
+    "volume": 68.4,
+    "date": "2019-04-09T09:51:21"
+  },
+  {
+    "_id": "5cc6de796cbcb781a35a3cb7",
+    "price_per_litre": 0.78,
+    "driver_id": 8,
+    "fuelType": "Gas 98",
+    "volume": 52.4,
+    "date": "2019-03-28T09:19:42"
+  },
+  {
+    "_id": "5cc6de793c6c9e9022eeb92d",
+    "price_per_litre": 1.9,
+    "driver_id": 2,
+    "fuelType": "Gas 95",
+    "volume": 64.3,
+    "date": "2019-04-16T07:42:50"
+  },
+  {
+    "_id": "5cc6de79a8d346014232c0fa",
+    "price_per_litre": 1.85,
+    "driver_id": 6,
+    "fuelType": "Diesel",
+    "volume": 89,
+    "date": "2019-03-01T02:47:10"
+  },
+  {
+    "_id": "5cc6de79298fe7015cc4877b",
+    "price_per_litre": 0.68,
+    "driver_id": 2,
+    "fuelType": "Gas 95",
+    "volume": 64.3,
+    "date": "2019-03-03T05:51:29"
+  },
+  {
+    "_id": "5cc6de7936925a447875e4f3",
+    "price_per_litre": 0.88,
+    "driver_id": 7,
+    "fuelType": "Gas 98",
+    "volume": 34.4,
+    "date": "2019-03-14T07:20:59"
+  },
+  {
+    "_id": "5cc6de79eedaed07792854d9",
+    "price_per_litre": 0.52,
+    "driver_id": 6,
+    "fuelType": "Gas 95",
+    "volume": 84.8,
+    "date": "2019-01-15T08:50:24"
+  }
+]
